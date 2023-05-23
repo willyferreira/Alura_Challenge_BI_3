@@ -23,12 +23,13 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
       - [x] Total de Cliques **(19.714.951)**
       - [x] Percentual de cliques em redes sociais **(98,5%)**
       - [x] CTR **(51,8%)**
-      - [ ] % de pesquisa - artigo
+      - [x] % de pesquisa - por artigo
       - [x] % de cliques pagos **(1,5%)**
-      - [ ] % de visitas diretas
-      - [ ] Qtd de visualizações - artigo
-      - [ ] Novos usuários / Dia
-      - [ ] Ranking de categorias por tempo de leitura
+      - [x] % de visitas diretas
+      - [x] Qtd de visualizações - artigo
+        - [x] Métrica se a quantidade de visualizações do artigo é maior ou menor que a média
+      - [x] Novos usuários / Dia
+      - [x] Ranking de categorias por tempo de leitura
     - [ ] Exibir cliques, visitas diretas e visualizações em um gráfico
 
 *Dashboard do Power BI em construção - Em fase de análise exploratória dos dados e criação de métricas*
