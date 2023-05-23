@@ -19,7 +19,7 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 - [ ] **1ª Semana - 22/05/2023 a 28/05/2023**
   - [x] Análise Exploratória da base de dados
   - [ ] Construção de dashboard 
-    - [ ] Métricas
+    - [x] Métricas
       - [x] Total de Cliques **(19.714.951)**
       - [x] Percentual de cliques em redes sociais **(98,5%)**
       - [x] CTR **(51,8%)**
