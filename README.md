@@ -33,4 +33,5 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 
 *Dashboard do Power BI em construção - Em fase de análise exploratória dos dados e criação de métricas*
 *Atualizado pela última vez em 23/05/2023 - 01h01min*
-<iframe title="Report Section" width="600" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiM2EwNDc1Y2QtMmNkMi00ZGQ3LTk1YjYtNmU5OWEyYWM0YWQ4IiwidCI6ImQwOTM0MGNiLTU0MWItNGRjNS05MWQ4LTE2YzU2YmQyYTE1MCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+ https://app.powerbi.com/view?r=eyJrIjoiM2EwNDc1Y2QtMmNkMi00ZGQ3LTk1YjYtNmU5OWEyYWM0YWQ4IiwidCI6ImQwOTM0MGNiLTU0MWItNGRjNS05MWQ4LTE2YzU2YmQyYTE1MCJ9
