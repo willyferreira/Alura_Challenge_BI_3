@@ -12,3 +12,5 @@ df = pd.read_excel(io='bloco_de_codigo/bloco_de_codigo_basededados.xlsx')
 df.head()
 # * Mostra os 5 últimos registros
 df.tail()
+
+
