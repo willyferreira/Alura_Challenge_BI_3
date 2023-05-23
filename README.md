@@ -25,8 +25,8 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
       - [x] CTR **(51,8%)**
       - [x] % de pesquisa - por artigo
       - [x] % de cliques pagos **(1,5%)**
-      - [x] % de visitas diretas
-      - [x] Qtd de visualizações - artigo
+      - [x] % de visitas diretas **(19,6%)**
+      - [x] Qtd de visualizações - por artigo
         - [x] Métrica se a quantidade de visualizações do artigo é maior ou menor que a média
       - [x] Novos usuários / Dia
       - [x] Ranking de categorias por tempo de leitura
