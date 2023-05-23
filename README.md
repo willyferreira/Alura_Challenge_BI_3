@@ -13,7 +13,7 @@ A primeira empresa, **Bloco de Código**, precisa de um dashboard para monitorar
 A segunda empresa, **Hermex**, necessita analisar dados sobre a logística das entregas do seu negócio.
 A terceira empresa, **Meteora**, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário."
 
-## Progresso dos trabalhos
+## Progresso do projeto
 *atualizado em 23/05/2023*
 
 - [ ] **1ª Semana - 22/05/2023 a 28/05/2023**
