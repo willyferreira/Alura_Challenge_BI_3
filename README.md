@@ -16,9 +16,9 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 ## Progresso do projeto
 *atualizado em 23/05/2023*
 
-- [ ] **1ª Semana - 22/05/2023 a 28/05/2023**
+- [x] **1ª Semana - 22/05/2023 a 28/05/2023**
   - [x] Análise Exploratória da base de dados
-  - [ ] Construção de dashboard 
+  - [x] Construção de dashboard 
     - [x] Métricas
       - [x] Total de Cliques **(19.714.951)**
       - [x] Percentual de cliques em redes sociais **(98,5%)**
@@ -30,11 +30,11 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
         - [x] Métrica se a quantidade de visualizações do artigo é maior ou menor que a média
       - [x] Novos usuários / Dia
       - [x] Ranking de categorias por tempo de leitura
-    - [ ] Exibir cliques, visitas diretas e visualizações em um gráfico
+    - [x] Exibir cliques, visitas diretas e visualizações em um gráfico
 
-*Dashboard do Power BI em construção - Em fase de análise exploratória dos dados e criação de métricas*
-*Atualizado pela última vez em 23/05/2023 - 01h01min*
+*Dashboard do Power BI*
+*Atualizado pela última vez em 23/05/2023 - 21h24min*
 
-![Ultima atualização](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/2f4826156df56cecba9662b8c85f8e0729e53095/bloco_de_codigo/dashboard_v2023_05_2023_1.png)
+![Dashboard - Bloco de Código](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/2f4826156df56cecba9662b8c85f8e0729e53095/bloco_de_codigo/dashboard_v2023_05_2023_1.png)
 
  https://app.powerbi.com/view?r=eyJrIjoiM2EwNDc1Y2QtMmNkMi00ZGQ3LTk1YjYtNmU5OWEyYWM0YWQ4IiwidCI6ImQwOTM0MGNiLTU0MWItNGRjNS05MWQ4LTE2YzU2YmQyYTE1MCJ9
