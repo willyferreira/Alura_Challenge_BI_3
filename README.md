@@ -14,9 +14,8 @@ A segunda empresa, **Hermex**, necessita analisar dados sobre a logística das e
 A terceira empresa, **Meteora**, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário."
 
 ## Progresso do projeto
-*atualizado em 23/05/2023*
 
-- [x] **1ª Semana - 22/05/2023 a 28/05/2023**
+  **1ª Semana - 22/05/2023 a 28/05/2023**
   - [x] Análise Exploratória da base de dados
   - [x] Construção de dashboard 
     - [x] Métricas
@@ -29,10 +28,10 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
       - [x] Qtd de visualizações - por artigo
         - [x] Métrica se a quantidade de visualizações do artigo é maior ou menor que a média
       - [x] Novos usuários / Dia
-      - [x] Ranking de categorias por tempo de leitura
+    - [x] Ranking de categorias por tempo de leitura
     - [x] Exibir cliques, visitas diretas e visualizações em um gráfico
 
-*Dashboard do Power BI*
+**Dashboard do Power BI**
 *Atualizado pela última vez em 23/05/2023 - 21h24min*
 
 ![Dashboard - Bloco de Código](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/243069b39aba55934a4c8cdeb9468704cf6296eb/bloco_de_codigo/dashboard_v2023_05_2023_v2.png)
