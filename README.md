@@ -35,6 +35,6 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 *Dashboard do Power BI*
 *Atualizado pela última vez em 23/05/2023 - 21h24min*
 
-![Dashboard - Bloco de Código](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/2f4826156df56cecba9662b8c85f8e0729e53095/bloco_de_codigo/dashboard_v2023_05_2023_1.png)
+![Dashboard - Bloco de Código](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/243069b39aba55934a4c8cdeb9468704cf6296eb/bloco_de_codigo/dashboard_v2023_05_2023_v2.png)
 
  https://app.powerbi.com/view?r=eyJrIjoiM2EwNDc1Y2QtMmNkMi00ZGQ3LTk1YjYtNmU5OWEyYWM0YWQ4IiwidCI6ImQwOTM0MGNiLTU0MWItNGRjNS05MWQ4LTE2YzU2YmQyYTE1MCJ9
