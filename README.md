@@ -15,7 +15,8 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 
 ## Progresso do projeto
 
-  **1ª Semana - 22/05/2023 a 28/05/2023**
+### 1ª Semana - Bloco de Código (Campanha de Marketing)
+**22/05/2023 a 28/05/2023**
   - [x] Análise Exploratória da base de dados
   - [x] Construção de dashboard 
     - [x] Métricas
@@ -37,3 +38,16 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
 ![Dashboard - Bloco de Código](https://github.com/willyferreira/Alura_Challenge_BI_3/blob/243069b39aba55934a4c8cdeb9468704cf6296eb/bloco_de_codigo/dashboard_v2023_05_2023_v2.png)
 
  https://app.powerbi.com/view?r=eyJrIjoiM2EwNDc1Y2QtMmNkMi00ZGQ3LTk1YjYtNmU5OWEyYWM0YWQ4IiwidCI6ImQwOTM0MGNiLTU0MWItNGRjNS05MWQ4LTE2YzU2YmQyYTE1MCJ9
+
+### 2ª Semana - Hermex (Logística)
+**29/05/2023 a 24/06/2023**
+  - [ ] Análise Exploratória da base de dados
+  - [ ] Construção de dashboard 
+    - [ ] Métricas
+      - [x] Nº de entregas feitas no prazo
+      - [ ] Nº de entregas feitas com atraso
+      - [ ] Nº de veículos disponíveis
+      - [ ] 2SD - Ship to door
+      - [ ] Índice de ocorrências por estado
+      - [ ] Nível médio de estoque por ano
+
