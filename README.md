@@ -42,9 +42,9 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
   - [ ] Análise Exploratória da base de dados
   - [ ] Construção de dashboard 
     - [ ] Métricas
-      - [x] Nº de entregas feitas no prazo
-      - [x] Nº de entregas feitas com atraso
-      - [x] Nº de veículos disponíveis
+      - [x] Nº de entregas feitas no prazo **(127.762)**
+      - [x] Nº de entregas feitas com atraso **(20.162)**
+      - [x] Nº de veículos disponíveis **(8)**
       - [x] 2SD - Ship to door
       - [x] Índice de ocorrências por estado
       - [ ] Nível médio de estoque por ano
