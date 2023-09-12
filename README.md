@@ -49,3 +49,5 @@ A terceira empresa, **Meteora**, precisa entender como anda a sua área de venda
       - [x] Índice de ocorrências por estado
       - [ ] Nível médio de estoque por ano
 
+*Atualizado pela última vez em 12/09/2023 - 15h28min*
+
